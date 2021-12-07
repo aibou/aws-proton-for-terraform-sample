@@ -1,0 +1,6 @@
+{
+  "tf-test" : {
+    "role" : "arn:aws:iam::123456789:role/TerraformGitHubActionsRole",
+    "region": "ap-northeast-1"
+  }
+}
